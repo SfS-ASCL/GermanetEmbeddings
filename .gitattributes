@@ -1,0 +1,2 @@
+embeddings/germanet_embeddings.fifu filter=lfs diff=lfs merge=lfs -text
+*.fifu* filter=lfs diff=lfs merge=lfs -text
