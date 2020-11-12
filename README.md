@@ -34,7 +34,12 @@ python retrofit.py path_to_the_dictionary_created_from_thesaurus \t path_to_pret
 ```
 
 ## retrofitted embeddings
-in "embeddings" you can find GermaNet embedding retrofitted from pretrained embeddings from fasttext. every lexical unit in GermaNet is associated with an embedding. the vocab looks like this:
+you can find GermaNet embeddings retrofitted from pretrained embeddings from fasttext:
+
+- germanet_embeddings.fifu
+- germanet_embeddings_normalized.fifu
+
+every lexical unit in GermaNet is associated with an embedding. the vocab looks like this:
 
 Palmbaum_l179661
 
